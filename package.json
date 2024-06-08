@@ -1,0 +1,15 @@
+{
+  "name": "mknr",
+  "version": "1.0.0",
+  "description": "make Next.js route quick and simple",
+  "keywords": ["Next.js", "app route", "cli", "create route"],
+  "main": "create-route.js",
+  "bin": {
+    "create-route": "./create-route.js"
+  },
+  "scripts": {
+    "create-route": "node ./create-route.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
