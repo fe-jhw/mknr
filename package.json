@@ -2,7 +2,17 @@
   "name": "mknr",
   "version": "1.0.0",
   "description": "make Next.js route quick and simple",
-  "keywords": ["Next.js", "app route", "cli", "create route"],
+  "keywords": [
+    "Next.js",
+    "app route",
+    "cli",
+    "create route"
+  ],
+  "homepage": "https://github.com/fe-jhw/mknr",
+  "bugs": {
+    "url": "https://github.com/fe-jhw/mknr/issues",
+    "email": "jhw1234527@gmail.com"
+  },
   "main": "create-route.js",
   "bin": {
     "create-route": "./create-route.js"
@@ -10,6 +20,14 @@
   "scripts": {
     "create-route": "node ./create-route.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Jeong Hyunwoo",
+    "email": "jhw1234527@gmail.com",
+    "url": "https://github.com/fe-jhw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fe-jhw/mknr.git"
+  },
+  "license": "MIT"
 }
