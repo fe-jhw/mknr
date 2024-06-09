@@ -15,10 +15,10 @@
   },
   "main": "create-route.js",
   "bin": {
-    "create-route": "./create-route.js"
+    "mknr": "./create-route.js"
   },
   "scripts": {
-    "create-route": "node ./create-route.js"
+    "mknr": "node ./create-route.js"
   },
   "author": {
     "name": "Jeong Hyunwoo",
